@@ -1,4 +1,4 @@
-# getting-and-cleaning-data-assignment
+# Getting and Cleaning Data Assignment
 ### Week 4 Assignment, Getting and Cleaning Data course
 
 ## Overview
