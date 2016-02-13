@@ -9,7 +9,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## Files in this project
 *README.md - A description of the project
+
 *Codebook.md - A file describing variables, the data and transformations
+
 *run_analysis.R - An R script that reads, modifies, cleans and finally outputs a clean file
 
 ## Process of Cleaning
